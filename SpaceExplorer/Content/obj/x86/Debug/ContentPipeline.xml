@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\sphere1uR.x</Source>
+      <Name>Models\sphere1uR</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\sphere1uR.xnb</Output>
+      <Time>2009-06-09T16:18:44+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\sphere1uR_0.xml</Key>
+        <Value>2010-10-26T22:03:05.4476872+02:00</Value>
+      </Dependency>
+      <Request>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\White_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2010-10-20T18:31:53.5250114+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\background_loading.PNG</Source>
+      <Name>Texture\background_loading</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Texture\background_loading.xnb</Output>
+      <Time>2010-10-26T17:52:54.7868499+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\sphere1uR.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\sphere1uR_0.xml</Output>
+      <Time>2009-06-09T16:18:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\White.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\White_0.xnb</Output>
+      <Time>2009-06-09T16:18:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\rock.jpg</Source>
+      <Name>Texture\rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Texture\rock.xnb</Output>
+      <Time>2010-10-26T22:46:30.1676687+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\metal.JPG</Source>
+      <Name>Texture\metal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Texture\metal.xnb</Output>
+      <Time>2010-10-27T18:19:08.8991441+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\stars.tga</Source>
+      <Name>Texture\stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Texture\stars.xnb</Output>
+      <Time>2007-12-09T17:16:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\rock2.png</Source>
+      <Name>Texture\rock2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Texture\rock2.xnb</Output>
+      <Time>2010-10-27T18:51:54.1425496+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\texture1.jpg</Source>
+      <Name>Texture\texture1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Texture\texture1.xnb</Output>
+      <Time>2010-11-02T18:18:33.9024504+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\texture2.jpg</Source>
+      <Name>Texture\texture2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Texture\texture2.xnb</Output>
+      <Time>2010-10-29T13:16:46.8591935+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\gates.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\gates_0.xml</Output>
+      <Time>2010-11-04T18:18:13.7033497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\gates.x</Source>
+      <Name>Models\gates</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeTexturesToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\gates.xnb</Output>
+      <Time>2010-11-04T18:18:13.7033497+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\gates_0.xml</Key>
+        <Value>2010-11-04T18:21:48.4276313+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Texture\shiphull.jpg</Source>
+      <Name>Texture\shiphull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Texture\shiphull.xnb</Output>
+      <Time>2010-11-04T20:57:31.2461106+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Hermes\Hermes.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Hermes\Hermes_0.xml</Output>
+      <Time>2010-11-05T23:32:15.2205364+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Hermes\C.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Hermes\C_2.xnb</Output>
+      <Time>2010-11-04T18:29:39.7095871+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Hermes\B.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Hermes\B_2.xnb</Output>
+      <Time>2010-11-04T18:29:39.7175875+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Hermes\shiphull.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Hermes\shiphull_2.xnb</Output>
+      <Time>2010-11-04T18:29:39.726588+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Hermes\orange.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Hermes\orange_2.xnb</Output>
+      <Time>2010-11-04T18:29:43.0027754+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Hermes\shiphull copy.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Hermes\shiphull copy_2.xnb</Output>
+      <Time>2010-11-04T18:29:41.6516981+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Hermes\pi12_spaceship_15.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Hermes\pi12_spaceship_15_2.xnb</Output>
+      <Time>2010-11-04T18:29:43.0347772+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Hermes\rough-panels2.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Hermes\rough-panels2_2.xnb</Output>
+      <Time>2010-11-04T18:29:44.1518411+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ship\Ship.x</Source>
+      <Name>Models\Ship\Ship</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeTexturesToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Ship\Ship.xnb</Output>
+      <Time>2010-10-27T15:04:56.9116885+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Ship\Ship_0.xml</Key>
+        <Value>2010-11-04T22:01:06.1583111+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Ship\Metal_Steel_Textured_0.xnb</Request>
+      <Request>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Ship\Metal_Seamed_0.xnb</Request>
+      <Request>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Ship\Metal_Rough_0.xnb</Request>
+      <Request>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Ship\Metal_Aluminum_Anodized_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Ship\Ship.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Ship\Ship_0.xml</Output>
+      <Time>2010-10-27T15:04:56.9116885+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ship\Metal_Steel_Textured.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Ship\Metal_Steel_Textured_0.xnb</Output>
+      <Time>2010-10-27T15:04:35.8474837+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ship\Metal_Seamed.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Ship\Metal_Seamed_0.xnb</Output>
+      <Time>2010-10-27T15:04:35.9894919+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ship\Metal_Rough.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Ship\Metal_Rough_0.xnb</Output>
+      <Time>2010-10-27T15:04:36.2055042+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ship\Metal_Aluminum_Anodized.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Ship\Metal_Aluminum_Anodized_0.xnb</Output>
+      <Time>2010-10-27T15:04:36.7365346+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Hermes\Hermes.x</Source>
+      <Name>Models\Hermes\Hermes</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeTexturesToPowerOfTwo">True</Data>
+        <Data Key="RotationZ">15</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Hermes\Hermes.xnb</Output>
+      <Time>2010-11-05T23:32:15.2205364+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Hermes\Hermes_0.xml</Key>
+        <Value>2010-11-05T23:35:38.6611725+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Hermes\C_2.xnb</Request>
+      <Request>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Hermes\B_2.xnb</Request>
+      <Request>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Hermes\shiphull_2.xnb</Request>
+      <Request>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Hermes\orange_2.xnb</Request>
+      <Request>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Hermes\shiphull copy_2.xnb</Request>
+      <Request>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Hermes\pi12_spaceship_15_2.xnb</Request>
+      <Request>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\Hermes\rough-panels2_2.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\bullet.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\bullet_0.xml</Output>
+      <Time>2010-11-07T09:13:21.2000627+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\bullet.x</Source>
+      <Name>Models\bullet</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="RotationY">-90</Data>
+        <Data Key="ColorKeyColor">255, 0, 0, 0</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\bullet.xnb</Output>
+      <Time>2010-11-07T09:13:21.2000627+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\bullet_0.xml</Key>
+        <Value>2010-11-07T11:09:02.8151004+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Texture\orange.JPG</Source>
+      <Name>Texture\orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Texture\orange.xnb</Output>
+      <Time>2010-11-04T18:29:43.0027754+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\shiphull2.jpg</Source>
+      <Name>Texture\shiphull2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Texture\shiphull2.xnb</Output>
+      <Time>2010-11-04T18:29:43.0347772+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\sphere.x</Source>
+      <Name>Models\sphere</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\Models\sphere.xnb</Output>
+      <Time>2010-11-12T13:38:27.990667+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\sphere_0.xml</Key>
+        <Value>2010-11-12T13:42:06.5191661+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\sphere.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\sphere_0.xml</Output>
+      <Time>2010-11-12T13:38:27.990667+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-14T11:13:52+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-09-27T20:21:34.3319124+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

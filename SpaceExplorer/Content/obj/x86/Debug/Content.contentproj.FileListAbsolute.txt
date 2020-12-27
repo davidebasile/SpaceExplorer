@@ -1,0 +1,3 @@
+C:\Users\Davide2\Desktop\Davide\università\CI\Final\GoingBeyond1_Tutorial\GoingBeyond1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\GoingBeyond1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Davide2\Desktop\Davide\università\CI\Final\SpaceExplorer\SpaceExplorer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
